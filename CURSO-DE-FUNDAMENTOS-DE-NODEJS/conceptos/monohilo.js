@@ -6,3 +6,5 @@ setInterval(() => {
     i++;
 },1000);
 
+console.log("Segunda instrucción ...");
+
